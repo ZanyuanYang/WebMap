@@ -1,2 +1,2 @@
 # WebMap
-![](webgif.gif)
+![](webgif.gif | width=100)
